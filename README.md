@@ -3,7 +3,7 @@
   Senior .NET Back-End Developer | Competitive Programmer | AI & ML Enthusiast | Aspiring QA Engineer
 -->
 
-# Hi there, I'm محمد إبراهيم علي 👋
+# Hi there, I'm Mohamed Ibrhaim Ali👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-­in-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-ibrahim-ali-mahmoud) [![Email](https://img.shields.io/badge/Email-­gmail-red?logo=gmail)](mailto:mohamedalii7405@gmail.com)
 
@@ -42,12 +42,6 @@
 - **IDE:** Visual Studio Code, Visual Studio  
 </details>
 
-
----
-
-## 📈 GitHub Stats
-
-![محمد’s GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-ibrahim-ali-mahmoud&show_icons=true&theme=radical)  
 
 ---
 
