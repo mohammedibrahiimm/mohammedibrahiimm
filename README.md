@@ -5,7 +5,7 @@
 
 # Hi there, I'm Mohamed Ibrhaim Ali👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-­in-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-ibrahim-ali-mahmoud) [![Email](https://img.shields.io/badge/Email-­gmail-red?logo=gmail)](mailto:mohamedalii7405@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-­in-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-ibrahim-ali-mahmoud) [![Email](https://img.shields.io/badge/Email-­gmail-red?logo=gmail)](mailto:mohamedalii7405@gmail.com) [![Codeforces](https://img.shields.io/badge/Codeforces-orange?logo=codeforces)](https://codeforces.com/profile/mo__) [![Codeforces](https://img.shields.io/badge/Codeforces-orange?logo=codeforces)](https://codeforces.com/profile/mohamedalii7404)
 
 ---
 
